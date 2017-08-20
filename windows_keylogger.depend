@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492784712 source:c:\users\1337_gamer\programming\windows_keylogger\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
